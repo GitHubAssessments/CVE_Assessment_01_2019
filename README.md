@@ -1,4 +1,3 @@
 # CVE_Assessment_01_2019
 
-
-Description: This is an assessment of the –INPUT-ACE version 2.2.1. This evaluation found vulnerabilities related to a possible buffer overflow  and a denial-of-service (DoS) using a User Datagram Protocol (UDP) flood attack . The UDP flood attack targeted the specific port in use by the software, instead of a flood around random ports on a remote host. As a result, the software achieved a status “suspended”.
+Description: This is a review of the -iNPUT-ACE version 2.2.1. The software has a vulnerability that could lead to a denial-of-service (DoS) using a User Datagram Protocol (UDP) flood attack . Other types of attacks using UDP ports may be available.
